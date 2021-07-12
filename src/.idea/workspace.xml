@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be00b16e-9056-4ad2-8b6b-8d87dcbd344c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.firebase/hosting.ZGlzdA.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.firebaserc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firebase.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firestore.indexes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firestore.rules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../functions/users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/auth/emailPassword.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/auth/facebook.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/auth/google.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/auth/login card.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/auth/register.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/chat/chatBox.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/sparator/tabs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/users/usersList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/firebase/firestore/authentication/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/firebase/firestore/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/firebase/firestore/users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/firebase/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/firebase/realtime/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quasar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/auth/auth.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/auth/auth.getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/auth/auth.mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/auth/auth.state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/auth/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/users/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/users/users.actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/users/users.getters.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/users/users.mutations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/users/users.state.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/quasar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/quasar.variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/Chat.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/users.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vue.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tzMZB80WpEVYhPYLE1mIZ9hbKb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be00b16e-9056-4ad2-8b6b-8d87dcbd344c" name="Default Changelist" comment="" />
+      <created>1623767517285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623767517285</updated>
+      <workItem from="1623767518456" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
